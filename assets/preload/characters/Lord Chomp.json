@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				75,
+				50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "X_Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				83
+			],
+			"anim": "singRIGHT",
+			"fps": 32,
+			"name": "X_nom",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/LordChomp",
+	"position": [
+		-40,
+		80
+	],
+	"healthicon": "LordX",
+	"flip_x": false,
+	"healthbar_colors": [
+		120,
+		119,
+		176
+	],
+	"camera_position": [
+		130,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}
